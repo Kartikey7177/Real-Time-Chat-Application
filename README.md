@@ -74,5 +74,5 @@ The Real-Time Chat Application demonstrates the power of WebSockets in building 
 
 
 # OUTPUT - 
-
+![Image](https://github.com/user-attachments/assets/c8760f30-dccf-455d-916c-548ca48c236f)
 
